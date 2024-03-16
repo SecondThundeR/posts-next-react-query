@@ -7,6 +7,7 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   title: "Posts App",
+  description: "Example NextJS app",
 };
 
 type RootLayoutProps = Readonly<PropsWithChildren>;
