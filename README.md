@@ -5,7 +5,7 @@ This is an example project of displaying placeholder posts using NextJS (App Rou
 > [!NOTE]
 > [Demo](posts-next-react-query.vercel.app) on Vercel
 
-This app uses [techniques](https://tanstack.com/query/latest/docs/framework/react/guides/advanced-ssr) for using React Query in Server Components by using prefetching and Suspense/HydrationBoundary for non-blocking and responsive UI
+This app uses [techniques](https://tanstack.com/query/latest/docs/framework/react/guides/advanced-ssr) for using React Query with Server Components by using prefetching and Suspense/HydrationBoundary for non-blocking and responsive UI
 
 ## Usage
 
